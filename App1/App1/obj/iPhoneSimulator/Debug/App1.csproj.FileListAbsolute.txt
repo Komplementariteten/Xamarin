@@ -1,0 +1,13 @@
+c:\users\osieg\source\repos\App1\App1\bin\iPhoneSimulator\Debug\App1.exe
+c:\users\osieg\source\repos\App1\App1\bin\iPhoneSimulator\Debug\App1.pdb
+c:\users\osieg\source\repos\App1\App1\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+c:\users\osieg\source\repos\App1\App1\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+c:\users\osieg\source\repos\App1\App1\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+c:\users\osieg\source\repos\App1\App1\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+c:\users\osieg\source\repos\App1\App1\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+c:\users\osieg\source\repos\App1\App1\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+c:\users\osieg\source\repos\App1\App1\obj\iPhoneSimulator\Debug\optimized\
+c:\users\osieg\source\repos\App1\App1\obj\iPhoneSimulator\Debug\App1.csproj.CoreCompileInputs.cache
+c:\users\osieg\source\repos\App1\App1\obj\iPhoneSimulator\Debug\App1.exe
+c:\users\osieg\source\repos\App1\App1\obj\iPhoneSimulator\Debug\App1.pdb
+c:\users\osieg\source\repos\App1\App1\obj\iPhoneSimulator\Debug\App1.csprojAssemblyReference.cache
